@@ -33,7 +33,7 @@
 &kp CAPS        &none            &none            &none            &none            &bt BT_NXT    &none      &none     &kp UP      &none              &none    &none
 &kp LEFT_SHIFT  &none            &none            &none            &none            &bt BT_CLR    &none      &kp LEFT  &kp DOWN    &kp RIGHT          &none    &none
 &kp LCTRL       &rgb_ug RGB_BRD  &rgb_ug RGB_BRI  &rgb_ug RGB_EFF  &rgb_ug RGB_TOG  &none         &none      &none     &kp PERIOD  &kp RIGHT_BRACKET  &none    &kp EQUAL
-                                                  &kp LEFT_ALT     &kp SPACE        &none         &none      &none
+                                                  &kp LEFT_ALT     &kp SPACE        &none         &none      &kp B
                                                                    &mkp MB1         &mkp MB2      &kp ENTER
             >;
 
